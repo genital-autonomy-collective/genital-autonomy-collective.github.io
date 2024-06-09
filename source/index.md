@@ -1,9 +1,7 @@
 ---
 layout: main.hbs
-title: Home
+title: About Genital Autonomy Collective
 ---
-
-# About Genital Autonomy Collective
 
 Genital Autonomy in short is the right to be free from any
 non-consensual genital alteration surgeries as a minor or coerced
