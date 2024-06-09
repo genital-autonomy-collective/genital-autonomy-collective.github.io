@@ -1,0 +1,59 @@
+@import "/css/tachyons.min.css";
+@font-face { font-family: "fjalla"; src: url("/fonts/fjalla-one.ttf"); }
+
+.bg-super-white { background: #f9f9f9; }
+.top-50 { top: 50% }
+.link:hover { background: url(/images/line.png) repeat-x left bottom; }
+
+.banner { width: 100%; height: auto; }
+.title a {color:inherit; text-decoration: none; }
+.title, .pv1, .ttu {font-family: fjalla, sans;}
+.blue {color:7702a7;}
+.mh2 { white-space: nowrap;}
+
+.seal{ height: 100px;}
+.flag.trans {
+    background: linear-gradient(#59cbf3 20%, #f0a5b6 0 40%, white 0 60%, #ffa6b9 0 80%, #59cbf3 0);
+    padding: 7px;
+}
+
+.flag.intersex { background: #fad400; padding: 7px;}
+
+.bg-super-white { background:#2b2d31;}
+.b--light-gray {background: #313338; color: white; border-color:black;}
+.blue {color:#fad400;}
+a {color:white;}
+.flag.trans {
+    background: linear-gradient(#59cbf3f0 20%, #f0a5b6f0 0 40%, #fffffff0 0 60%, #ffa6b9f0 0 80%, #59cbf3f0 0);
+    padding: 7px;
+}
+.flag.intersex { background: #fad400f0; padding: 7px;}
+
+/* Markdown styles */
+.markdown-body a {
+  text-decoration: none;
+  color: #357edd;
+}
+.markdown-body .highlighter-rouge {
+  padding: .25rem .5rem;
+}
+.markdown-body pre {
+  margin: 0;
+  overflow: auto;
+}
+.markdown-body > .highlighter-rouge,
+.markdown-body > blockquote {
+  padding: .5rem 4rem;
+  margin: 2em -4rem;
+}
+.markdown-body > hr {
+  margin: 2em -4rem;
+  border: 0;
+  border-bottom: 1px dotted #CCC;
+}
+.markdown-body blockquote {
+  background: #f9f9f9;
+  border-left: .2rem solid #ccc;
+  padding-left: 3.8rem;
+}
+/* end Markdown styles */

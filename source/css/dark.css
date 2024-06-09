@@ -1,0 +1,9 @@
+.bg-super-white { background:#2b2d31;}
+.b--light-gray {background: #313338; color: white; border-color:black;}
+.blue {color:#fad400;}
+a {color:white;}
+.flag.trans {
+    background: linear-gradient(#59cbf3d9 20%, #f0a5b6d9 0 40%, #ffffffd9 0 60%, #ffa6b9d9 0 80%, #59cbf3d9 0);
+    padding: 7px;
+}
+.flag.intersex { background: #fad400d9; padding: 7px;}
