@@ -1,0 +1,53 @@
+on:
+  push:
+    branches: ["main"]
+
+name: Build GAC Website
+
+jobs:
+  build:
+    name: Build Site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm install
+
+      - name: Build site
+        run: node site.js
+
+      - name: Fix permissions
+        run: |
+          chmod -c -R +rX "build" | while read line; do
+          echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+
+      - name: Upload pages bundle
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "build/"
+
+  deploy:
+    name: Deploy Site
+
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
