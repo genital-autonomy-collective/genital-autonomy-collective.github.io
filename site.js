@@ -4,9 +4,10 @@ var layouts     = require('@metalsmith/layouts');
 
 Metalsmith(__dirname)
   .metadata({
-    title: "Genital Autonomy Collective",
-    generator: "Metalsmith",
-    url: "http://autonomycollective.org"
+    sitename: "Genital Autonomy Collective",
+    siteurl: "https://genital-autonomy-collective.github.io",
+    generatorname: "Metalsmith",
+    generatorurl: "https://metalsmith.io/"
   })
   .source('./source')
   .destination('./build')
