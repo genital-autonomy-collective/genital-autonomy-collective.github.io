@@ -2,7 +2,6 @@
 layout: main.hbs
 title: Code of Conduct
 ---
-# **__Code of Conduct__**
 
 **The absence of a specific rule or guideline is not grounds to excuse, justify, or persist harmful behavior.** If you are told that something you are doing is harmful, take a step back. Even a "might be" is grounds to give it some thought. (We will continue to shape the rules to help maintain a safe and reasonably comfortable environment)
 
