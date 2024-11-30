@@ -2,7 +2,6 @@
 layout: main.hbs
 title: Healthcare Provider Directory
 notes: Obtain small blurb from providers on thoughts on genital autonomy
-notes: 
 ---
 At GAC we're very aware that not many providers are educated on or supportive of genital autonomy, intact genitals, or marginalized intersectional identities. It can be difficult to receive the care you need when fundamental rights and identities are not respected.  These are providers who have been crowd sourced as supportive of intersectional genital autonomy as well as trans, intersex and gender diverse peoples...  They've agreed to be listed here, and may or may not be accepting new patients. 
 
