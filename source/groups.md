@@ -15,7 +15,7 @@ supportive of intersectional ideals and identities.** We do not view
 these stances as controversial, and feel that agreement with these
 positions is a necessity for being part of our communities.
 
-All GAC spaces are private, and vetted directly by moderators.  When you join a Discord by the links below you'll be prompted to answer vetting questions, and a moderator will be with you soon.  Once you join your profile will not be visible by non-vetted users, and your membership is confidential. 
+All GAC spaces are private, and vetted directly by moderators.  When you join a Discord by the links below you'll be prompted to answer vetting questions, and a moderator will be with you soon.  Once you are vetted your profile will not be visible by non-vetted users, and your membership is confidential. 
 
 We're a volunteer-run organization, so please be patient with the vetting process. On average, it takes about one day for a moderator to respond to your vetting questions.
 

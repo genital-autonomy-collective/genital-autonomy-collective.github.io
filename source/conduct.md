@@ -3,7 +3,7 @@ layout: main.hbs
 title: Code of Conduct
 ---
 
-**The absence of a specific rule or guideline is not grounds to excuse, justify, or persist harmful behavior.** If you are told that something you are doing is harmful, take a step back. Even a "might be" is grounds to give it some thought. We will continue to shape the rules to help maintain a safe and reasonably comfortable environment.
+**The absence of a specific rule or guideline is not grounds to excuse, justify, or persist harmful behavior.** If you are told that something you are doing is harmful, take a step back. We will continue to shape the rules to help maintain a safe and reasonably comfortable environment.
 
 ## Our Pledge
 We as members pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
@@ -48,8 +48,6 @@ GAC supports direct action and mutual aid for our community members.  To ensure 
 ## Partnerships & Promotions
 GAC is open to partnering with related organizations that we can vouch for as explicitly supporting intersectional genital autonomy.  Again we ask that you **contact the moderation team first** to organize any promotions or partnerships. 
 
-Credits to our partner server Intersex & Beyond for identity policing guidelines.
-
 
 ## **Content Warnings (CW/TW) & Spoilers**
 - **When talking about sensitive topics you must use content warnings and spoilers**
@@ -65,7 +63,7 @@ Credits to our partner server Intersex & Beyond for identity policing guidelines
 
 
 # Acceptable Topics Guide
-This list is by no means complete. Please remember that if you're uncertain about these or any other topics, you can always ask. Your comfort is extremely important to us; and in the end that's why these rules are in place.  
+This list is by no means complete.  If you're uncertain about these or any other topic, please ask in a `#mod-ticket`.
 
 
 ### Okay Topics
@@ -73,7 +71,7 @@ Topics allowed unspoilered in non content warning channels:
 - Brief mentions of violated genital autonomy 
 
 ### *Spoilered* Outside Content Warning(CW) Channels 
-These topics must be **spoilered**.  Try to keep mentions brief without detail if outside content warning channels.  
+These topics must be **spoilered**.  Keep mentions brief without detail if outside content warning channels.  
 - ||Alcohol and other 'soft' drugs||
 - ||Food||
 - ||Firearms||
@@ -92,14 +90,14 @@ These topics can be shared in more detail in content warning channels while **sp
 
 
 ### Brief Mentions Only
-Topics that are only okay to mention briefly without details. If they're listed above those guidelines also apply. 
+Topics that are only okay to mention briefly without details while **spoilered** in content warning channels. 
 - ||Suicide, Suicidal Ideation||
 - ||Bestiality, Pedophilia||
 - ||Weight||
 
 
 ### Non-acceptable Topics
-Topics that aren't acceptable throughout the server.  
+Topics that are *not* acceptable throughout GAC.  
 - ||Suicidal Intention/Crisis||
 - ||Using alt right dog whistles such as pepe the frog emojis.||
   * ||Discussion of others using these is okay behind spoilers.|| 
@@ -109,32 +107,31 @@ Topics that aren't acceptable throughout the server.
   ## NSFW Rules  
 - **Porn is *not* allowed anywhere in any GAC space.**  
 - Keep NSFW content in NSFW channels.  Mature topics are allowed elsewhere given the nature of the server, but only in discussion, not in embedded or uploaded media.  Medical diagrams are allowed. 
-- NSFW Media shared even in NSFW channels *must* be spoilered.  Allowing users to opt-in to seeing NSFW media is to make discussion in these channels more accessible.  
+- NSFW Media shared in NSFW channels *must* be spoilered.  This makes discussions in NSFW channels more accessible as users can opt-in to seeing NSFW media. 
 - Media shared in NSFW channels that depicts states of arousal must be accompanied by reasoning such as medical or progress. 
-- No downloading, linking or sharing photos without explicit permission from the person in the photo.
+- No downloading, linking or sharing media without explicit permission from the person in the media.
 - Absolutely no body shaming, keep to body positivity or neutrality.
-- **Absolutely no posting of any media of minors including child circumcision or intersex surgery or progress pictures of yourself before you were 18.**
+- **Absolutely no posting of any media of minors including child circumcision or intersex surgery or progress of yourself before you were 18.**
 
 ## **NSFW Guidelines**
-======== QUOTE ========
-> 
-> As it says in the rules above, talk about genitals is permitted in the SFW channels, but discussion should be kept appropriate. In this context "appropriate" means that discussion should be kept as non-sexual and medically relevant as possible.
-> 
-> Here are a few good practices:
-> 
-> Don't talk about your genitals. Instead, talk about a neutral, non embodied abstract set.
-> NSFW territory: My <genital> is so sensitive on the <fun spot>, how can I make sure it stays that way on hormones?
-> Safe for urologists: How can a person beginning hormone therapy ensure that sensitivity on the <sensitive spot> region of the <genital> is preserved?
-> 
-> Don't talk about sexual acts. Instead, talk about physical states.
-> Make mods sad: I was <sex act>ing my way through <large number> of hot <gender> last night. When they had their <body part> inside/around my <body part> it hurt so bad, what do I do?
-> Makes mods proud: What should someone do if they're experiencing severe pain when something is inside/around their <body part>?
-> 
-> Go to NSFW chat channels. Yes, we know it's not available for everyone, but there is a separation for a reason.
-> 
-====== END QUOTE ======
 
-Credits to the Salmacian Central Discord server.
+ > "As it says in the rules above, talk about genitals is permitted in the SFW channels, but discussion should be kept appropriate. In this context "appropriate" means that discussion should be kept as non-sexual and medically relevant as possible.
+ > 
+ > Here are a few good practices:
+ > 
+ > Don't talk about your genitals. Instead, talk about a neutral, non embodied abstract set.
+ > NSFW territory: My <genital> is so sensitive on the <fun spot>, how can I make sure it stays that way on hormones?
+ > Safe for urologists: How can a person beginning hormone therapy ensure that sensitivity on the <sensitive spot> region of the <genital> is preserved?
+ >   
+ > Don't talk about sexual acts. Instead, talk about physical states.
+ > Make mods sad: I was <sex act>ing my way through <large number> of hot <gender> last night. When they had their <body part> inside/around my <body part> it hurt so bad, what do I do?
+ > Makes mods proud: What should someone do if they're experiencing severe pain when something is inside/around their <body part>?
+ > 
+ > Go to NSFW chat channels. Yes, we know it's not available for everyone, but there is a separation for a reason."
+ 
+
+
+
 
 # Peer Support Group
 The peer support group is currently running on Tuesdays at 18:00 UTC-8(PT).  
@@ -174,6 +171,15 @@ All of the server rules apply as well as additional guidelines:
 
 **If someone's making you uncomfortable or breaking any of the above rules don't hesitate to message an admin or moderator, open a mod mail ticket in `#mod-tickets` or notify us with @Staff on Discord.**
 
-We're a volunteer-run organization, so please be patient with the vetting process. On average, it takes about one day for a moderator to respond to your vetting questions.
+We're a volunteer-run organization, so please be patient with the vetting process and other tickets. On average, it takes about one day for a moderator to respond to your vetting questions.
 
 **Important:** Do not send direct messages to moderators or admins asking to be verified more quickly. Doing so will not expedite the process and may negatively impact our assessment of your suitability for the server.
+
+
+### Credits
+Credits to the Intersex & Beyond Discord server for our identity policing guidelines.
+Credits to the Salmacian Central Discord server for our NSFW Guideline examples.
+
+Some of our Code of Conduct and in particular our enforcement responsibilities and guidelines are based on the Contributor Covenant.
+Credits to the Contributor Covenant:
+https://www.contributor-covenant.org/ 
