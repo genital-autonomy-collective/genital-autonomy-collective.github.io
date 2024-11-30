@@ -5,8 +5,8 @@ title: About Genital Autonomy Collective
 
 Genital Autonomy in short is the right to be free from any
 non-consensual genital alteration surgeries as a minor or coerced
-adult including [intersex] 'corrective' surgeries, male and female
-circumcision.  These are also known as IGM, MGM and FGM respectively.
+adult including [intersex] 'corrective' surgeries, male circumcision, and female
+circumcision.  These are also known as intersex genital mutilation(IGM), male genital mutilation(MGM), and female genital mutilation(FGM) respectively.
 
 [intersex]: https://interactadvocates.org/faq/
 
