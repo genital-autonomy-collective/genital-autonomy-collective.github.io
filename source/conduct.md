@@ -20,7 +20,6 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 - **Lying about your age will result in a ban.**
 - **Due to the nature of the topics, you must be 18+ to join.  By answering the vetting questions and attempting to join you are agreeing that you're over 18 *and* over the age of majority in your jurisdiction.** 
 
-==================================
 
 ## **Privacy**
 Being part of this group requires mutual trust. Authentic, expressive discussions make groups great, but may also be sensitive and private. **Personal information shared in the group *must* stay in the group.**
@@ -41,26 +40,16 @@ Everyone’s identity and experience is valid and should be respected by communi
 Our space is unfortunately not equipped to handle personal crisis, so discussions on extremely triggering topics such as **CW** ||Suicidal Intention/Crisis or  Non-Suicidal Self Injury Intent/Threats|| are not allowed.  If you are in crisis please reach out to a help line or local resource.
 
 ## Direct Message (DM) Roles
-Direct Message roles on our members including "Closed DMs" and "Ask to DM" must be respected.  Any contact that originates on GAC and is taken privately cannot be used to harass, solicit.  Actions in private that originated from GAC can lead to moderation action on you as a member of our space. 
-
-=================
+Direct Message roles on our members including "Closed DMs" and "Ask to DM" must be respected.  Any contact that originates on GAC and is taken privately cannot be used to harass, solicit, or otherwise disturb the other party.  Actions in private that originated from GAC can lead to moderation action on you as a member of our space.
 
 ## Mutual Aid 
-GAC supports direct action and mutual aid for community members.  To ensure safety of our members we ask that if you're in need of support directly or are signal boosting for another cause that you **contact the moderation team first** before posting these sorts of requests. Any posts that have not been cleared with the moderation team will be taken down.  People can be notified of these posts through our @Signal Boost Notifications role.
+GAC supports direct action and mutual aid for our community members.  To ensure safety of our members we ask that if you're in need of support directly or are signal boosting for another cause that you **contact the moderation team first** before posting these sorts of requests. Any posts that have not been cleared with the moderation team will be taken down.  People can be notified of these posts through our @Signal Boost Notifications  role.
 
 ## Partnerships & Promotions
 GAC is open to partnering with related organizations that we can vouch for as explicitly supporting intersectional genital autonomy.  Again we ask that you **contact the moderation team first** to organize any promotions or partnerships. 
 
-
-==============================================
-  
 Credits to our partner server Intersex & Beyond for identity policing guidelines.
-  
-  
-  
-  ===========================================
-  
-  
+
 
 ## **Content Warnings (CW/TW) & Spoilers**
 - **When talking about sensitive topics you must use content warnings and spoilers**
@@ -73,9 +62,6 @@ Credits to our partner server Intersex & Beyond for identity policing guidelines
   * For images, you can tick a box when posting from a PC or edit the image title to start with 'SPOILER_'.
 - Examples of topics that require content warnings(CWs): ||Sexual assault, Death, Drugs, Self Harm, Queerphobia, etc.||  Continued in the Acceptable Topics Guide...
 
-
-====================================================
-==================================================
 # Acceptable Topics Guide
 This list is by no means complete. Please remember that if you're uncertain about these or any other topics, you can always ask. Your comfort is extremely important to us; and in the end that's why these rules are in place.  
 
@@ -117,21 +103,9 @@ Topics that aren't acceptable throughout the server.
   * ||Discussion of others using these is okay behind spoilers.|| 
 - ||Suicidal Intention/Crisis||
 - ||Non-Suicidal Self Injury Intent/Threats||
-  
+  * ||Discussion of others using these is okay behind spoilers.||
 
-
-
-=================================================================
-
-
-
-
-===========================================
-
-
-
-
-## **NSFW Rules ** 
+  ## **NSFW Rules ** 
 - **This is *not* a porn server.**  
 - Keep NSFW content in NSFW channels.  Mature topics are allowed elsewhere given the nature of the server, but only in discussion, not in embedded or uploaded media.  Medical diagrams are allowed. 
 - NSFW Media shared even in NSFW channels *must* be spoilered.  Allowing users to opt-in to seeing NSFW media is to make discussion in these channels more accessible.  
@@ -139,15 +113,6 @@ Topics that aren't acceptable throughout the server.
 - No downloading, linking or sharing photos without explicit permission from the person in the photo.
 - Absolutely no body shaming, keep to body positivity or neutrality.
 - Absolutely no posting of any media of minors including child circumcision or intersex surgery or progress pictures of yourself before you were 18.
-
-
-    
-	
-
-
-===========================================
-	
-	
 
 ## **NSFW Guidelines**
 ======== QUOTE ========
@@ -168,13 +133,6 @@ Topics that aren't acceptable throughout the server.
 > 
 ====== END QUOTE ======
 Credits to the Salmacian Central discord server.
-
-
-
-
-
-
-===========================================
 
 # Peer Support Group
 The peer support group is currently running on Tuesdays at 19:00 UTC-8(PT).  
@@ -212,16 +170,7 @@ All of the server rules apply as well as additional guidelines:
 - Alcohol and other drug paraphernalia are allowed as long as explicit consent is received from all parties.  
 
 
-=======================================
-
 **If someone's making you uncomfortable or breaking any of the above rules don't hesitate to message an admin or moderator, open a mod mail ticket in `#mod-tickets` or notify us with @Staff.**
-
-===========================================
-
-
-
-
-
 
 We're a volunteer-run server, so please be patient with the vetting process. On average, it takes about one day for a moderator to respond to your vetting questions.
 
