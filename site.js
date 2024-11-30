@@ -1,7 +1,9 @@
 var Metalsmith = require('metalsmith');
 var markdown = require('@metalsmith/markdown');
 var layouts = require('@metalsmith/layouts');
+const toc = require('@metalsmith/table-of-contents')
 var headingsIdentifier = require("metalsmith-headings-identifier");
+var inPlace = require('@metalsmith/in-place');
 
 Metalsmith(__dirname)
     .metadata({
@@ -13,10 +15,9 @@ Metalsmith(__dirname)
     .source('./source')
     .destination('./build')
     .clean(false)
+    .use(toc())
+    .use(inPlace({ transform: "handlebars", extname: null }))
     .use(markdown())
-    .use(headingsIdentifier({
-        allow: "generateHeadings"
-    }))
     .use(layouts({
         "default": "main.hbs",
         "pattern": "**/*.html"
