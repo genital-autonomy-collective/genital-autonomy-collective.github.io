@@ -1,6 +1,7 @@
 var Metalsmith = require('metalsmith');
 var markdown = require('@metalsmith/markdown');
 var layouts = require('@metalsmith/layouts');
+var headingsIdentifier = require("metalsmith-headings-identifier");
 
 Metalsmith(__dirname)
     .metadata({
@@ -13,6 +14,9 @@ Metalsmith(__dirname)
     .destination('./build')
     .clean(false)
     .use(markdown())
+    .use(headingsIdentifier({
+        allow: "generateHeadings"
+    }))
     .use(layouts({
         "default": "main.hbs",
         "pattern": "**/*.html"

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "handlebars": "^4.0.6",
-    "metalsmith": "^2.3.0",
     "@metalsmith/layouts": "^2.3.1",
     "@metalsmith/markdown": "^1.2.0",
-    "jstransformer-handlebars": "^1.1.0"
+    "handlebars": "^4.0.6",
+    "jstransformer-handlebars": "^1.1.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-headings-identifier": "^0.0.11"
   }
 }
