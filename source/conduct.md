@@ -72,9 +72,12 @@ Topics allowed unspoilered in non content warning channels:
 
 ### *Spoilered* Outside Content Warning(CW) Channels 
 These topics must be **spoilered**.  Keep mentions brief without detail if outside content warning channels.  
+- Flashing images
+- Sudden loud noises or jump scares
 - ||Alcohol and other 'soft' drugs||
 - ||Food||
 - ||Firearms||
+
 
 
 ### Allowed Only in Content Warning(CW) Channels 
