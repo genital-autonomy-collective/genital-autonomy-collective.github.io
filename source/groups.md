@@ -45,8 +45,6 @@ We run a weekly peer support group for this intersection.
 
 
 
-<a class="link hover-mid-gray mh2 pv1" href=""><img class="sidebutton" src="/img/discord2.gif" title="Join
-our Discord" alt="Join our Discord"></a>
 
 <a class="link hover-mid-gray mh2 pv1" href="https://disboard.org/server/990715403623858176">Click here to join the GAC Discord</a>
 
