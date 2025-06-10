@@ -2,13 +2,12 @@
 layout: main.hbs
 title: Get Involved
 ---
-
 # Get Involved
+
 At the Genital Autonomy Collective (GAC), we believe that challenging hierarchical systems of power is necessary for meaningful change.  Therefore we center radical kindness, grassroots action, and mutual aid.  Everyone has a role in creating a future of intersectional genital autonomy, whether you’re showing up for a protest, helping moderate a space, or organizing within your own communities.  GAC is here to reduce barriers and support your efforts along the way.  
 That said, we’d still love your support!
 
 Sign up for our coming newsletter or follow the #announcements channels in our Discords for the latest volunteer opportunities.   To be notified directly, grab the `@activism event notifications` role in #roles on our Discord.  
-https://autonomycollective.org/getinvolved 
 
 
 <!--insert advocacy example images-->

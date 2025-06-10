@@ -1,7 +1,9 @@
 ---
 layout: main.hbs
-title: Support Groups
+title: Groups
 ---
+
+# Groups
 
 These spaces were created in response to many genital autonomy spaces
 not being overtly intersectional, and inclusive to marginalized
