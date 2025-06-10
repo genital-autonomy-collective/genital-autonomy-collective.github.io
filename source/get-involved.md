@@ -7,8 +7,17 @@ title: Get Involved
 At the Genital Autonomy Collective (GAC), we believe that challenging hierarchical systems of power is necessary for meaningful change.  Therefore we center radical kindness, grassroots action, and mutual aid.  Everyone has a role in creating a future of intersectional genital autonomy, whether you’re showing up for a protest, helping moderate a space, or organizing within your own communities.  GAC is here to reduce barriers and support your efforts along the way.  
 That said, we’d still love your support!
 
-Sign up for our coming newsletter or follow the #announcements channels in our Discords for the latest volunteer opportunities.   To be notified directly, grab the `@activism event notifications` role in #roles on our Discord.  
+Sign up for our coming newsletter or follow the #announcements channels in our Discords for the latest volunteer opportunities.   To be notified directly, grab the `@activism event notifications` role in `#roles` on our Discord.  
 
+###  How to Volunteer
+
+- Sign up for our coming email newsletter
+- Join our community Discord Servers and:
+  - Post in `#ga-activism` in our Discord servers
+  - Open a `#contact-staff` ticket in our Discord servers
+  - Obtain the `@activism event notifications role` in `#roles` 
+  - Follow `#Announcements`
+- Or email **Allie@AutonomyCollective.org**
 
 <!--insert advocacy example images-->
 
@@ -31,11 +40,11 @@ Your support helps keep GAC community-driven. Rather than chasing foundation gra
 We primarily organize and connect in community-led Discord servers.  Whether you're seeking support, want to help with outreach, or just want to learn more, our community servers are a great place for it.
 
 - **TIGD GAC Server** (for trans, intersex, and gender-diverse folks)
-https://disboard.org/server/990715403623858176 
+  - https://disboard.org/server/990715403623858176 
 - **SAIGA Server** (for cis and/or perisex allies)
-https://disboard.org/server/1222756727959715962 
+  - https://disboard.org/server/1222756727959715962 
 
-To join check out https://autonomycollective.org/groups.html 
+For more information check out: https://autonomycollective.org/groups.html 
 
 
 ## Discord Community Servers
@@ -104,7 +113,7 @@ To get event updates and signup info:
 - Sign up for our coming email newsletter
 - Post in `#ga-activism` in our Discord servers
 - Open a `#contact-staff` ticket in our Discord servers
-- Obtain the @activism event notifications role in #roles in our Discord servers
+- Obtain the `@activism event notifications role` in `#roles` in our Discord servers
 - Or email **Allie@AutonomyCollective.org**
 
 
@@ -148,21 +157,15 @@ If your group’s values align with intersectional genital autonomy, we’d love
 Help keep our online spaces safe, supportive, and aligned with our mission. Moderators welcome new members, enforce community guidelines, and guide discussions in a respectful, inclusive direction. 
 We’re primarily seeking Discord moderators but also welcome help with expanding to other community platforms such as Facebook Groups. 
 Becoming a moderator requires being a trusted, active community member first. We’re looking for people who know our values, model respectful engagement, and can help others feel heard and supported.  See #Mod-Guidelines or https://autonomycollective.org/codeofconduct/modguidelines for more details.
+
 ### Peer Support Group Facilitators
+
 
 Support others by helping lead our online support groups with compassion and care. Facilitators help set a welcoming tone, guide respectful conversation, and ensure that everyone has space to share and feel heard.
 You don’t need to be a therapist, just someone with lived experience, empathy, and a strong understanding of our values.  Facilitators are usually longtime or trusted members of the community who can hold space with sensitivity and maintain group boundaries.  See our group norms and guidelines for more information.  
+
 ### Your Ideas Here
 Or let us know how you’d like to contribute! 
----
- 
-###  How to Volunteer
-
-- Sign up for our coming email newsletter
-- Post in `#ga-activism` in our Discord servers
-- Open a `#contact-staff` ticket in our Discord servers
-- Obtain the @activism event notifications role in #roles in our Discord servers
-- Or email **Allie@AutonomyCollective.org**
 
 
 
