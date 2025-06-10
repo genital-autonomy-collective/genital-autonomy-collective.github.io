@@ -11,8 +11,8 @@ circumcision.  These are also known as intersex genital mutilation(IGM), male ge
 [intersex]: https://interactadvocates.org/faq/
 
 The Genital Autonomy Collective is a peer network of
-[support groups](/groups/) and advocates for
-[intersectional](/faq/#intersectional) genital autonomy.  Our main
+[support groups](https://autonomycollective.org/groups.html) and advocates for
+[intersectional](https://autonomycollective.org/FAQ.html) genital autonomy.  Our main
 focus is providing support and community for the intersection of
 violated genital autonomy and marginalized peoples, and their
 (affected) allies.
