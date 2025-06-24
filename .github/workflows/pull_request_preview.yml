@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
@@ -40,11 +43,12 @@ jobs:
     needs: build
 
     permissions:
+      contents: read
       pages: write
       id-token: write
 
     environment:
-      name: github-pages
+      name: preview
       url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
