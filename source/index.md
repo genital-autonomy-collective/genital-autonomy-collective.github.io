@@ -42,6 +42,7 @@ We urgently seek:
 * **Intersex adults (under age 40)** harmed by Oregon-based procedures
 * **Intersex youth** currently under threat of medical interventions, with supportive guardians
 * **Intersex adults** facing Oregon-based discrimination in education, licensing, or healthcare
+* **Transgender people** who have experienced penile circumcision _in Oregon_
 
 ## The Time Is Now
 
