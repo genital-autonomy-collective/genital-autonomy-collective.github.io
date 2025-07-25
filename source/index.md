@@ -4,10 +4,13 @@ title: About Genital Autonomy Collective
 ---
 
 <style>
-  .urgent-call {
-    display: flex;
+  .center {
     align-items: center;
     justify-content: center;
+    text-align: center;
+  }
+  .urgent-call {
+    display: flex;
     gap: 0.5em;
   }
   .urgent-call::before,
@@ -15,8 +18,8 @@ title: About Genital Autonomy Collective
     content: "⚠️";
   }
 </style>
-<h1 class="urgent-call">Urgent Call to Action</h1>
-<h2 class="urgent-call">Intersex Plaintiff Needed Within 30 Days</h2>
+<h1 class="center urgent-call">Urgent Call to Action</h1>
+<h2 class="center">Intersex Plaintiff Needed Within 30 Days</h2>
 
 **A historic opportunity to protect intersex children under the Oregon Constitution is at risk of being lost forever.**
 
