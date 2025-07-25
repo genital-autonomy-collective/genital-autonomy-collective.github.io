@@ -6,7 +6,7 @@ title: Hadachek v. Oregon
 # Hadachek v. Oregon
 ## Constitutional Opportunity for Intersex Rights Protection
 
-**InterConnect Summer Conference Presentation**
+### InterConnect Summer Conference Presentation
 
 **July 25, 2025**
 
@@ -22,8 +22,7 @@ framework.
 
 **Presentation Overview (60 minutes)**
 
-**I. Executive Summary & Critical Constitutional Challenge (10
-minutes)**
+#### I. Executive Summary & Critical Constitutional Challenge
 
 **What This Case Is**
 
@@ -69,7 +68,7 @@ invasiveness or medical necessity.
 - **Constitutional Precedent at Stake**: Only current opportunity for
   state-level intersex protection
 
-**II. Meet the Legal Team & Strategic Framework (15 minutes)**
+#### II. Meet the Legal Team & Strategic Framework
 
 **Lead Attorneys**
 
@@ -126,8 +125,7 @@ Esq.]{.underline}**](https://www.law-works.com/)
 - **Strategic Role**: Funding and organizational support for critical
   intersex rights education efforts
 
-**III. Legal Framework: Why Oregon Provides Unique Opportunity (10
-minutes)**
+#### III. Legal Framework: Why Oregon Provides Unique Opportunity
 
 **Constitutional Advantages**
 
@@ -158,7 +156,7 @@ Circuit Court **Case Number**: 25CV18224 **Filed**: March 27, 2025
 **Claims**: Oregon\'s Female Genital Mutilation statutes violate equal
 protection by protecting only girls
 
-**IV. Current Plaintiffs & Critical Vulnerabilities (10 minutes)**
+#### IV. Current Plaintiffs & Critical Vulnerabilities
 
 **Existing Plaintiffs (All Male Circumcision Claims)**
 
@@ -195,8 +193,7 @@ protection by protecting only girls
   27]{.underline}](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
   violations: Minor plaintiffs lack guardian ad litem representation
 
-**V. How Intersex Plaintiffs Transform Constitutional Theory (15
-minutes)**
+#### V. How Intersex Plaintiffs Transform Constitutional Theory
 
 **Strategic Advantages for Intersex Participation**
 
@@ -263,7 +260,7 @@ minutes)**
 
 - Continuing constitutional harm requiring immediate redress
 
-**VI. Immediate Action Steps & Contact Information (10 minutes)**
+#### VI. Immediate Action Steps & Contact Information
 
 **Urgent Timeline (Next 30 Days)**
 
