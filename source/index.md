@@ -3,7 +3,6 @@ layout: main.hbs
 title: About Genital Autonomy Collective
 ---
 
-<h1 class="urgent-call">Urgent Call to Action</h1>
 <style>
   .urgent-call {
     display: flex;
@@ -16,9 +15,8 @@ title: About Genital Autonomy Collective
     content: "⚠️";
   }
 </style>
-
-
-## Intersex Plaintiff Needed Within 30 Days
+<h1 class="urgent-call">Urgent Call to Action</h1>
+<h2 class="urgent-call">Intersex Plaintiff Needed Within 30 Days</h2>
 
 **A historic opportunity to protect intersex children under the Oregon Constitution is at risk of being lost forever.**
 
