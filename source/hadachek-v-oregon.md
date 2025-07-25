@@ -72,8 +72,7 @@ invasiveness or medical necessity.
 
 **Lead Attorneys**
 
-[**[Lake James H. Perriguey,
-Esq.]{.underline}**](https://www.law-works.com/)
+[**Lake James H. Perriguey, Esq.**](https://www.law-works.com/)
 
 - **Oregon Bar #983213** \| Law Works LLC, Portland
 
@@ -85,12 +84,11 @@ Esq.]{.underline}**](https://www.law-works.com/)
 
 - **Contact**: (503) 227-1928 \| lake@law-works.com
 
-[**[Eric Clopper, Esq.]{.underline}**](https://www.clopper.law/)
+[**Eric Clopper, Esq.**](https://www.clopper.law/)
 
 - **Lead Counsel** \| The Clopper Law Firm PC, Los Angeles
 
-- **Background**: Georgetown Law graduate, [[Intact
-  Global]{.underline}](https://www.intactglobal.org/) founder
+- **Background**: Georgetown Law graduate, [**Intact Global**](https://www.intactglobal.org/) founder
 
 - **Strategic Vision**: Constitutional protection for all children
   regardless of sex characteristics
@@ -99,8 +97,7 @@ Esq.]{.underline}**](https://www.law-works.com/)
 
 **Supporting Organizations**
 
-[**[Genital Autonomy Legal Defense & Education Fund
-(GALDEF)]{.underline}**](https://www.galdef.org/)
+[**Genital Autonomy Legal Defense & Education Fund (GALDEF)**](https://www.galdef.org/)
 
 - **Mission**: Support impact litigation expanding children\'s bodily
   integrity rights
@@ -110,8 +107,7 @@ Esq.]{.underline}**](https://www.law-works.com/)
 - **Focus**: Strategic cases establishing legal precedents protecting
   vulnerable children
 
-[**[Genital Autonomy Collective
-(GAC)]{.underline}**](https://www.autonomycollective.org/)
+[**Genital Autonomy Collective (GAC)**](https://www.autonomycollective.org/)
 
 - **Portland Regional Support**: Community network for individuals
   affected by genital cutting
@@ -129,8 +125,7 @@ Esq.]{.underline}**](https://www.law-works.com/)
 
 **Constitutional Advantages**
 
-[**[Oregon Constitution Article I, Section
-20]{.underline}**](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/orcons.html)
+[Oregon Constitution Article I, Section 20](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/orcons.html)
 
 \"No law shall be passed granting to any citizen or class of citizens
 privileges, or immunities, which, upon the same terms, shall not equally
@@ -142,9 +137,7 @@ belong to all citizens.\"
   highest constitutional review under Oregon law
 
 - **Stronger Than Federal Law**: Oregon courts apply more rigorous
-  protection than federal equal protection analysis ([[Oregon Bar
-  Bulletin legal
-  analysis]{.underline}](https://hoffmanlawpnw.com/publications/making-a-legal-record-under-the-oregon-constitution-or-if-you-dont-raise-it-you-lose-it-2/))
+  protection than federal equal protection analysis ([Oregon Bar Bulletin legal analysis](https://hoffmanlawpnw.com/publications/making-a-legal-record-under-the-oregon-constitution-or-if-you-dont-raise-it-you-lose-it-2/))
 
 - **Favorable Precedent**: Successful constitutional challenges in
   marriage equality and gender recognition cases
@@ -189,8 +182,7 @@ protection by protecting only girls
 - Constitutional relief provides no \"meaningful relief\" for
   circumcision
 
-- [[ORCP
-  27]{.underline}](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
+- [ORCP 27](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
   violations: Minor plaintiffs lack guardian ad litem representation
 
 #### V. How Intersex Plaintiffs Transform Constitutional Theory
@@ -237,16 +229,14 @@ protection by protecting only girls
 - Medical records establishing cosmetic rather than necessary
   interventions
 
-- Within [[Oregon\'s child abuse
-  statute]{.underline}](https://oregon.public.law/statutes/ors_12.117)
+- Within [Oregon\'s child abuse statute](https://oregon.public.law/statutes/ors_12.117)
   (claims until age 40)
 
 **Category 2: Minor Intersex Oregonians with Current Risk**
 
 - Under medical surveillance with intervention recommendations
 
-- Supportive guardians willing to pursue proper [[guardian ad
-  litem]{.underline}](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
+- Supportive guardians willing to pursue proper [guardian ad litem](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
   representation
 
 - Active Oregon medical relationships creating ongoing constitutional
@@ -273,18 +263,15 @@ Minor participants require proper legal representation before joining
 
 **Legal Team**:
 
-- **Lake Perriguey**: (503) 227-1928 \| [[Law Works
-  LLC]{.underline}](https://www.law-works.com/)
+- **Lake Perriguey**: (503) 227-1928 \| [Law Works LLC](https://www.law-works.com/)
 
-- **Eric Clopper**: eric@intactglobal.org \| [[The Clopper Law
-  Firm]{.underline}](https://www.clopper.law/)
+- **Eric Clopper**: eric@intactglobal.org \| [The Clopper Law Firm](https://www.clopper.law/)
 
 **Community Support**:
 
 - **InterConnect**: Follow-up through established conference networks
 
-- [**[Genital Autonomy Collective
-  (GAC)]{.underline}**](https://www.autonomycollective.org/): Portland
+- [**Genital Autonomy Collective (GAC)**](https://www.autonomycollective.org/): Portland
   regional support and strategic coordination
 
 - **Strategic Coordination**: Carrie Cantrell presentation follow-up
@@ -293,8 +280,7 @@ Minor participants require proper legal representation before joining
 
 1.  **Oregon Connection**: Procedures in Oregon or by Oregon providers?
 
-2.  **Timeline Compliance**: Within [[statute of
-    limitations]{.underline}](https://oregon.public.law/statutes/ors_12.117)
+2.  **Timeline Compliance**: Within [statute of limitations](https://oregon.public.law/statutes/ors_12.117)
     frameworks?
 
 3.  **Documented Impact**: Physical, psychological, professional, or
@@ -310,27 +296,23 @@ Minor participants require proper legal representation before joining
 
 **Legal Information**
 
-- **Oregon Legislature**: [[Official statutes and constitutional
-  text]{.underline}](https://www.oregonlegislature.gov/)
+- **Oregon Legislature**: [Official statutes and constitutional text](https://www.oregonlegislature.gov/)
 
-- **Oregon Courts**: [[State judicial system
-  information]{.underline}](https://www.courts.oregon.gov/)
+- **Oregon Courts**: [State judicial system information](https://www.courts.oregon.gov/)
 
-- **Oregon State Bar**: [[Attorney verification and legal
-  resources]{.underline}](https://www.osbar.org/)
+- **Oregon State Bar**: [Attorney verification and legal resources](https://www.osbar.org/)
 
-- **Oregon Rules of Civil Procedure**: [[Court procedural
-  requirements]{.underline}](https://www.oregonlegislature.gov/bills_laws/SiteAssets/ORCP.html)
+- **Oregon Rules of Civil Procedure**: [Court procedural requirements](https://www.oregonlegislature.gov/bills_laws/SiteAssets/ORCP.html)
 
 **Case-Specific Resources**
 
-- [**[Intact Global]{.underline}**](https://www.intactglobal.org/):
+- [**Intact Global**](https://www.intactglobal.org/):
   Primary litigation funding organization
 
-- [**[GALDEF]{.underline}**](https://www.galdef.org/): Legal defense
+- [**GALDEF**](https://www.galdef.org/): Legal defense
   fund supporting constitutional litigation
 
-- [**[Law Works LLC]{.underline}**](https://www.law-works.com/): Local
+- [**Law Works LLC**](https://www.law-works.com/): Local
   counsel firm with civil rights expertise
 
 **Medical and Advocacy Support**
@@ -338,8 +320,7 @@ Minor participants require proper legal representation before joining
 - **InterConnect**: 29-year intersex support organization providing
   community foundation
 
-- [**[Genital Autonomy Collective
-  (GAC)]{.underline}**](https://www.autonomycollective.org/): Portland
+- [**Genital Autonomy Collective (GAC)**](https://www.autonomycollective.org/): Portland
   regional support group with intersectional advocacy approach
 
 - **Oregon Medical Ethics Organizations**: Healthcare providers
@@ -371,8 +352,7 @@ Constitutional principle requiring government to treat similarly
 situated individuals equally, with heightened scrutiny for protected
 characteristics like sex.
 
-*Application*: [[Oregon Constitution Article I, Section
-20]{.underline}](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/orcons.html)
+*Application*: [Oregon Constitution Article I, Section 20](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/orcons.html)
 applies strict scrutiny to sex-based classifications, providing stronger
 protection than federal equal protection analysis.
 
@@ -381,8 +361,7 @@ protection than federal equal protection analysis.
 Court-appointed adult representing minor\'s interests in legal
 proceedings, separate from parents or regular attorneys.
 
-*Application*: [[ORCP
-27]{.underline}](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
+*Application*: [ORCP 27](https://oregon.public.law/rules-of-civil-procedure/orcp-27-minor-or-incapacitated-parties/)
 requires guardian ad litem for minor plaintiffs; current case violates
 this requirement, creating dismissal vulnerability.
 
