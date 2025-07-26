@@ -37,6 +37,11 @@ exclusionary system. Without an intersex plaintiff, the case may move
 forward—but it will likely fail to secure protections for intersex
 people, and this constitutional opportunity could be lost.
 
+With an intersex plaintiff, the odds of success increase
+significantly—and any favorable ruling is far more likely to set a
+precedent that protects intersex minors and the adults they will
+become.
+
 ## Who We Need
 
 We urgently seek:
