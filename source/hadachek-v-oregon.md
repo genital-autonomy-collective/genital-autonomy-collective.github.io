@@ -20,7 +20,7 @@ extend profound gratitude to GAC for their strategic vision in
 supporting intersex community education about this unprecedented legal
 framework.
 
-**Presentation Overview (60 minutes)**
+**Presentation Overview**
 
 #### I. Executive Summary & Critical Constitutional Challenge
 
