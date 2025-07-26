@@ -28,12 +28,14 @@ cutting laws which protect girls but leave boys and intersex children
 unprotected. This case could establish the **first-ever constitutional
 protection for intersex bodily autonomy**. But there’s a catch:
 
-**The case will be dismissed unless a qualified intersex plaintiff comes forward within the next 30 days.**
+** Unless a qualified intersex plaintiff steps forward in the next
+30 days, this case may lose its power to set precedent for intersex
+rights.**
 
-This is our only current legal pathway to challenge Oregon’s binary
-and exclusionary system. Without an intersex voice, the courts will
-throw out the case -- not because it lacks merit, but because the
-right person hasn’t yet been heard.
+This is our only active legal challenge to Oregon’s binary and
+exclusionary system. Without an intersex plaintiff, the case may move
+forward—but it will likely fail to secure protections for intersex
+people, and this constitutional opportunity could be lost.
 
 ## Who We Need
 
