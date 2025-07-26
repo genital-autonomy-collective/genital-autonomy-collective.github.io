@@ -62,8 +62,8 @@ invasiveness or medical necessity.
 - **Motion to Dismiss Filed**: Oregon Attorney General challenges case
   survival (July 23, 2025)
 
-- **30-Day Response Deadline**: Case could be dismissed without intersex
-  plaintiff participation
+- **30-Day Response Deadline**: Without an intersex plaintiff case may
+  lose its power to set precedent for intersex rights
 
 - **Constitutional Precedent at Stake**: Only current opportunity for
   state-level intersex protection
