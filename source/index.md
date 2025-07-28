@@ -28,7 +28,7 @@ cutting laws which protect girls but leave boys and intersex children
 unprotected. This case could establish the **first-ever constitutional
 protection for intersex bodily autonomy**. But there’s a catch:
 
-** Unless a qualified intersex plaintiff steps forward, this case may
+**Unless a qualified intersex plaintiff steps forward, this case may
 lose its power to set precedent for intersex rights.**
 
 This is our only active legal challenge to Oregon’s binary and
