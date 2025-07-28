@@ -19,7 +19,7 @@ title: About Genital Autonomy Collective
   }
 </style>
 <h1 class="center urgent-call">Urgent Call to Action</h1>
-<h2 class="center">Intersex Plaintiff Needed Within 30 Days</h2>
+<h2 class="center">Intersex Plaintiff Urgently Needed</h2>
 
 **A historic opportunity to protect intersex children under the Oregon Constitution is at risk of being lost forever.**
 
@@ -28,9 +28,8 @@ cutting laws which protect girls but leave boys and intersex children
 unprotected. This case could establish the **first-ever constitutional
 protection for intersex bodily autonomy**. But there’s a catch:
 
-** Unless a qualified intersex plaintiff steps forward in the next
-30 days, this case may lose its power to set precedent for intersex
-rights.**
+** Unless a qualified intersex plaintiff steps forward, this case may
+lose its power to set precedent for intersex rights.**
 
 This is our only active legal challenge to Oregon’s binary and
 exclusionary system. Without an intersex plaintiff, the case may move
@@ -61,7 +60,8 @@ legal checkbox.
 👉 [Reach out to the legal team](mailto:eric@intactglobal.org) or
 [learn more about the case](https://autonomycollective.org/hadachek-v-oregon.html)
 
-**30 days. One voice. A chance to change history.**
+**One voice. A chance to change history.**
+
 Don’t let this moment pass in silence.
 
 # About Genital Autonomy Collective
