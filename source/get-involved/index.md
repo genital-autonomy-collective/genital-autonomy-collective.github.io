@@ -4,10 +4,10 @@ title: Get Involved
 ---
 # Get Involved
 
-At the Genital Autonomy Collective (GAC), we believe that challenging hierarchical systems of power is necessary for meaningful change.  Therefore we center radical kindness, grassroots action, and mutual aid.  Everyone has a role in creating a future of intersectional genital autonomy, whether you’re showing up for a protest, helping moderate a space, or organizing within your own communities.  GAC is here to reduce barriers and support your efforts along the way.  
+At the Genital Autonomy Collective (GAC), we believe that challenging hierarchical systems of power is necessary for meaningful change.  Therefore we center radical kindness, grassroots action, and mutual aid.  Everyone has a role in creating a future of intersectional genital autonomy, whether you’re showing up for a protest, helping moderate a space, or organizing within your own communities.  GAC is here to reduce barriers and support your efforts along the way.
 That said, we’d still love your support!
 
-Sign up for our coming newsletter or follow the #announcements channels in our Discords for the latest volunteer opportunities.   To be notified directly, grab the `@activism event notifications` role in `#roles` on our Discord.  
+Sign up for our coming newsletter or follow the #announcements channels in our Discords for the latest volunteer opportunities.   To be notified directly, grab the `@activism event notifications` role in `#roles` on our Discord.
 
 ###  How to Volunteer
 
@@ -15,7 +15,7 @@ Sign up for our coming newsletter or follow the #announcements channels in our D
 - Join our community Discord Servers and:
   - Post in `#ga-activism` in our Discord servers
   - Open a `#contact-staff` ticket in our Discord servers
-  - Obtain the `@activism event notifications role` in `#roles` 
+  - Obtain the `@activism event notifications role` in `#roles`
   - Follow `#Announcements`
 - Or email **Allie@AutonomyCollective.org**
 
@@ -28,7 +28,7 @@ Even a small donation helps us fund support groups, educational materials, resea
 
 **[Donate Now](https://tinyurl.com/supportGAC)**
 
-<!--Will move to: https://autonomycollective.org/donate--> 
+<!--Will move to: https://autonomycollective.org/donate-->
 
 Your support helps keep GAC community-driven. Rather than chasing foundation grants that often come with strings attached, we rely on grassroots contributions that allow us to stay accountable to people. Whenever possible, we prioritize working with small, local businesses, because building community means investing in it directly.
 
@@ -40,15 +40,15 @@ Your support helps keep GAC community-driven. Rather than chasing foundation gra
 We primarily organize and connect in community-led Discord servers.  Whether you're seeking support, want to help with outreach, or just want to learn more, our community servers are a great place for it.
 
 - **TIGD GAC Server** (for trans, intersex, and gender-diverse folks)
-  - https://disboard.org/server/990715403623858176 
+  - https://disboard.org/server/990715403623858176
 - **SAIGA Server** (for cis and/or perisex allies)
-  - https://disboard.org/server/1222756727959715962 
+  - https://disboard.org/server/1222756727959715962
 
-For more information check out: https://autonomycollective.org/groups.html 
+For more information check out: https://autonomycollective.org/groups/
 
 
 ## Discord Community Servers
-###  Bump to Boost Visibility 
+###  Bump to Boost Visibility
 
 One of the easiest and *most impactful* ways to support is to go to the `#bot-commands` channel in our Discord servers and type: `/bump`
 
@@ -56,19 +56,19 @@ Then select the **Disboard /bump** command. That simple action helps Genital Aut
 
 You don’t have to be active all the time to make a big difference, just bumping when you remember helps get our message in front of eyes that need it.
 
-<!--Insert Disboard Bump Images https://i.imgur.com/lfLEqGa.png 
-https://i.imgur.com/XAQ9PUj.png 
+<!--Insert Disboard Bump Images https://i.imgur.com/lfLEqGa.png
+https://i.imgur.com/XAQ9PUj.png
 -->
 
 ### Boost Our Discord Servers
 
-If you have Discord Nitro, you get free monthly server boosts, and using one to support our server is an easy, meaningful way to help! 
+If you have Discord Nitro, you get free monthly server boosts, and using one to support our server is an easy, meaningful way to help!
 
 I’m personally not a fan of proprietary platforms locking community features behind paywalls, but if you already have Nitro, this is a great way to increase visibility for intersectional genital autonomy.
 
 Server boosting helps us:
-- Add a **server banner** for visibility in partner and discovery listings  
-- Unlock **more emoji slots**, allowing accessibility, identity, and location-based emojis  
+- Add a **server banner** for visibility in partner and discovery listings
+- Unlock **more emoji slots**, allowing accessibility, identity, and location-based emojis
 - Improve **audio/video quality** for support groups and virtual events
 
 Boosts are cumulative, and every level unlocks more features for our community.
@@ -79,7 +79,7 @@ Learn more about how server boosting works in [Discord’s Server Boosting FAQ](
 
 ## Printables to Share In Person
 
-One of the most accessible ways to spread awareness is through print media. We’ve created **stickers, flyers, zines, and info cards** that you can print and distribute in your local area.  Printing these on shipping label paper is an incredibly easy and cheap way to make stickers.  
+One of the most accessible ways to spread awareness is through print media. We’ve created **stickers, flyers, zines, and info cards** that you can print and distribute in your local area.  Printing these on shipping label paper is an incredibly easy and cheap way to make stickers.
 <!--insert shipping label paper image https://i.imgur.com/MKIudb9.jpeg-->
 
 You can find everything on our [Printables Page](https://autonomycollective.org/resources/printables).
@@ -108,8 +108,8 @@ We’re a grassroots collective and everything we do is powered by people like y
 ###  Event Outreach
 Help us represent GAC at Pride, and other outreach events! Talk with your community, hand out flyers, and bring intersectional genital autonomy into real-world conversations.
 
-To get event updates and signup info: 
-- Join our Discords at https://autonomycollective.org/groups.html
+To get event updates and signup info:
+- Join our Discords at https://autonomycollective.org/groups/
 - Sign up for our coming email newsletter
 - Post in `#ga-activism` in our Discord servers
 - Open a `#contact-staff` ticket in our Discord servers
@@ -130,7 +130,7 @@ Help maintain or improve our website and digital resources to reach more people 
 
 ###  Mental Health Professionals
 We’re seeking licensed professionals to **consult with us** or help **facilitate support groups**, especially for trans, intersex, and gender-diverse participants. If you’re trauma-informed and care about genital autonomy, we’d love to hear from you.
-### Health professionals 
+### Health professionals
 We’re looking for professionals to add to our directory of Intersectional Genital Autonomy Supportive providers which could include, but isn’t limited to:
 * Pelvic Floor Physical Therapists
 * Urologists
@@ -140,13 +140,13 @@ We’re looking for professionals to add to our directory of Intersectional Geni
 ###  Content Creators & Educators
 Raise awareness with videos, social media posts, interviews, or educational content on genital autonomy, especially from intersectional perspectives.
 
-### Journalists and Platform Amplifiers  
-Use your platform, large or small, to share GAC’s work, our support groups, and why intersectional genital autonomy matters.  
+### Journalists and Platform Amplifiers
+Use your platform, large or small, to share GAC’s work, our support groups, and why intersectional genital autonomy matters.
 
 ### Academics and Researchers
-GAC is looking for more opportunities to bring intersectional genital autonomy into academic spheres.  If you have connections with a journal willing to publish in support of genital autonomy many of our members are willing to write or otherwise get involved. 
+GAC is looking for more opportunities to bring intersectional genital autonomy into academic spheres.  If you have connections with a journal willing to publish in support of genital autonomy many of our members are willing to write or otherwise get involved.
 ### Writers
-Help us write educational content for our website, print media, blog posts & announcements, etc. 
+Help us write educational content for our website, print media, blog posts & announcements, etc.
 ### Organizational Collaborations
 We’re always looking to build connections with like-minded organizations, collectives, and grassroots efforts. Whether it’s co-hosting events, sharing resources, or amplifying each other’s work, collaboration helps us grow stronger together.
 If your group’s values align with intersectional genital autonomy, we’d love to connect. Let’s explore how we can support each other through shared advocacy, education, and outreach.
@@ -154,25 +154,25 @@ If your group’s values align with intersectional genital autonomy, we’d love
 
 
 ###  Community Moderators
-Help keep our online spaces safe, supportive, and aligned with our mission. Moderators welcome new members, enforce community guidelines, and guide discussions in a respectful, inclusive direction. 
-We’re primarily seeking Discord moderators but also welcome help with expanding to other community platforms such as Facebook Groups. 
+Help keep our online spaces safe, supportive, and aligned with our mission. Moderators welcome new members, enforce community guidelines, and guide discussions in a respectful, inclusive direction.
+We’re primarily seeking Discord moderators but also welcome help with expanding to other community platforms such as Facebook Groups.
 Becoming a moderator requires being a trusted, active community member first. We’re looking for people who know our values, model respectful engagement, and can help others feel heard and supported.  See #Mod-Guidelines or https://autonomycollective.org/codeofconduct/modguidelines for more details.
 
 ### Peer Support Group Facilitators
 
 
 Support others by helping lead our online support groups with compassion and care. Facilitators help set a welcoming tone, guide respectful conversation, and ensure that everyone has space to share and feel heard.
-You don’t need to be a therapist, just someone with lived experience, empathy, and a strong understanding of our values.  Facilitators are usually longtime or trusted members of the community who can hold space with sensitivity and maintain group boundaries.  See our group norms and guidelines for more information.  
+You don’t need to be a therapist, just someone with lived experience, empathy, and a strong understanding of our values.  Facilitators are usually longtime or trusted members of the community who can hold space with sensitivity and maintain group boundaries.  See our group norms and guidelines for more information.
 
 ### Your Ideas Here
-Or let us know how you’d like to contribute! 
+Or let us know how you’d like to contribute!
 
 
 
 ## Notice Something Off?
 We’re a small, volunteer-run collective, and sometimes things slip through the cracks. If you spot a typo, outdated info, broken link, or anything else that needs fixing on our website or other platforms please don’t hesitate to let us know.
 
-You can contact us through #contact-staff on Discord, or by emailing Allie@autonomycollective.org 
+You can contact us through #contact-staff on Discord, or by emailing Allie@autonomycollective.org
 
 
 
@@ -180,7 +180,7 @@ You can contact us through #contact-staff on Discord, or by emailing Allie@auton
 Here are some previous events for ideas for how to help out in the future, and what GAC funding goes towards:
 * Portland’s Bike Summer rides for Intersectional Genital Autonomy
 * Pride Tabling Community Outreach
-* Community Flier posting runs 
+* Community Flier posting runs
 * Activist Conventions such as Intact Global 2025
 * Social Media Interviews
 * Publishing academic papers such as with the Journal of Bodies, Sexualities, and Masculinities

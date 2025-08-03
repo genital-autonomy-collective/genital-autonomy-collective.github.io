@@ -58,7 +58,7 @@ all children whose rights are ignored because their bodies don’t fit a
 legal checkbox.
 
 👉 [Reach out to the legal team](mailto:eric@intactglobal.org) or
-[learn more about the case](https://autonomycollective.org/hadachek-v-oregon.html)
+[learn more about the case](https://autonomycollective.org/hadachek-v-oregon/)
 
 **One voice. A chance to change history.**
 
