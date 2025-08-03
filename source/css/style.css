@@ -57,3 +57,7 @@ a {color:white;}
   padding-left: 3.8rem;
 }
 /* end Markdown styles */
+
+summary h2, summary h3 {
+  display: inline-block;
+}
