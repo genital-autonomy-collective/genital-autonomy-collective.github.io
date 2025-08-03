@@ -6,9 +6,9 @@ title: FAQ & Glossary
 
 # Frequently Asked Questions
 
-<details><summary><h2>Core Concepts</h2></summary>
+<details open="true"><summary><h2>Core Concepts</h2></summary>
 
-<details><summary><h3>What is child genital cutting (CGC)?</h3></summary>
+<details open="true"><summary><h3>What is child genital cutting (CGC)?</h3></summary>
 
 
 Child genital cutting (CGC) is a broad term that refers to any non-consensual alteration or removal of genital tissue performed on a minor or coerced adult.
@@ -32,7 +32,7 @@ At GAC, we advocate for the end of all forms of non-consensual child genital cut
 
 </details>
 
-<details><summary><h3>What is genital autonomy?</h3></summary>
+<details open="true"><summary><h3>What is genital autonomy?</h3></summary>
 
 
 Genital Autonomy is a **fundamental human right** to control what happens to one’s own genitals.  The term is primarily used in reference to **freedom from non-consensual or coerced genital alteration**.
@@ -50,7 +50,7 @@ For adults, genital autonomy also means supporting the right to informed, consen
 </details>
 
 
-<details><summary><h3>What is intersectionality?</h3></summary>
+<details open="true"><summary><h3>What is intersectionality?</h3></summary>
 
 
 Intersectionality is a framework to analyze how different aspects of a person’s identity such as race, gender, sexuality, disability, and class interact in unique and compounding ways when shaping their experiences of privilege, discrimination, and access to resources.
@@ -67,7 +67,7 @@ https://www.biscmi.org/wp-content/uploads/2020/11/K-Crenshaw-Demarginalizing-the
 </details>
 
 
-<details><summary><h4>What is intersectional genital autonomy? </h4></summary>
+<details open="true"><summary><h4>What is intersectional genital autonomy? </h4></summary>
 
 
 People's experience of violated genital autonomy vary widely depending on their gender, race, class, and more.
@@ -83,7 +83,7 @@ These are just two of many, many, unique scenarios that illustrate why genital a
 <!--</details>
 
 
-<details><summary><h3>Question Eg</h3></summary>
+<details open="true"><summary><h3>Question Eg</h3></summary>
 
 
 
@@ -94,21 +94,21 @@ These are just two of many, many, unique scenarios that illustrate why genital a
 </details>
 
 
-<details><summary><h2>Category</h2></summary>
+<details open="true"><summary><h2>Category</h2></summary>
 
-<details><summary><h3>Example Question</h3></summary>
-
-
-
-</details>
-
-<details><summary><h3>Example Question</h3></summary>
+<details open="true"><summary><h3>Example Question</h3></summary>
 
 
 
 </details>
 
-<details><summary><h3>Example Question</h3></summary>
+<details open="true"><summary><h3>Example Question</h3></summary>
+
+
+
+</details>
+
+<details open="true"><summary><h3>Example Question</h3></summary>
 
 
 
@@ -116,21 +116,21 @@ These are just two of many, many, unique scenarios that illustrate why genital a
 
 </details>
 
-<details><summary><h2>Category</h2></summary>
+<details open="true"><summary><h2>Category</h2></summary>
 
-<details><summary><h3>Example Question</h3></summary>
-
-
-
-</details>
-
-<details><summary><h3>Example Question</h3></summary>
+<details open="true"><summary><h3>Example Question</h3></summary>
 
 
 
 </details>
 
-<details><summary><h3>Example Question</h3></summary>
+<details open="true"><summary><h3>Example Question</h3></summary>
+
+
+
+</details>
+
+<details open="true"><summary><h3>Example Question</h3></summary>
 
 
 
