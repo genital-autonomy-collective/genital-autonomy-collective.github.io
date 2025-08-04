@@ -82,8 +82,6 @@ invasiveness or medical necessity.
 - **Intersex Advocacy**: Represented Jamie Shupe (first legal non-binary
   recognition)
 
-- **Contact**: (503) 227-1928 \| lake@law-works.com
-
 [**Eric Clopper, Esq.**](https://www.clopper.law/)
 
 - **Lead Counsel** \| The Clopper Law Firm PC, Los Angeles
@@ -262,8 +260,6 @@ Minor participants require proper legal representation before joining
 **Primary Contacts**
 
 **Legal Team**:
-
-- **Lake Perriguey**: (503) 227-1928 \| [Law Works LLC](https://www.law-works.com/)
 
 - **Eric Clopper**: eric@intactglobal.org \| [The Clopper Law Firm](https://www.clopper.law/)
 
