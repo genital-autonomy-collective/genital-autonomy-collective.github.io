@@ -62,7 +62,7 @@ invasiveness or medical necessity.
 - **Motion to Dismiss Filed**: Oregon Attorney General challenges case
   survival (July 23, 2025)
 
-- **30-Day Response Deadline**: Without an intersex plaintiff case may
+- **Intersex Plaintiff Needed**: Without an intersex plaintiff case may
   lose its power to set precedent for intersex rights
 
 - **Constitutional Precedent at Stake**: Only current opportunity for
@@ -252,7 +252,7 @@ protection by protecting only girls
 
 #### VI. Immediate Action Steps & Contact Information
 
-**Urgent Timeline (Next 30 Days)**
+**Urgent Timeline**
 
 **Legal Consultation Priority**: Contact attorneys immediately for case
 evaluation **Documentation Preservation**: Secure medical records,
@@ -498,6 +498,6 @@ immediate community mobilization to seize this opportunity before the
 window closes permanently.**
 
 **Contact the legal team immediately if you meet potential plaintiff
-criteria. The next 30 days will determine whether this becomes the
-landmark case protecting all children regardless of sex
+criteria. Finding an intersex plaintiff could determine whether this
+becomes the landmark case protecting all children regardless of sex
 characteristics.**
